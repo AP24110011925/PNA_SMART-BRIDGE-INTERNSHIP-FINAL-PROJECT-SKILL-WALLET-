@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[user]
+	email = pranay0902.k@gmail.com
+	name = Pranay Kurapati
+[remote "origin"]
+	url = https://github.com/batman-10-gothambat/smart_bridge-final-project.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
