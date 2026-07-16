@@ -1,0 +1,6 @@
+{
+  "name": "Personalized Networking Assistant",
+  "description": "An AI-powered web application that helps generate smart, tailored conversation starters for professional or social events using AI classification and text generation, complete with fact-checking, conversation logging, and feedback history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
